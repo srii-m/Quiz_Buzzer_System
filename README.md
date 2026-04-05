@@ -71,12 +71,6 @@ This project uses basic digital components like flip-flops and logic gates to en
 
 ---
 
-## 📷 Project Preview
-
-![Circuit Diagram](Circuit_diagram.jpg)  
-![Project Image](Project.png)
-
----
 
 ## 🚀 Future Improvements
 
