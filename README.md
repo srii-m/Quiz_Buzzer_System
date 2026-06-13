@@ -91,9 +91,9 @@ This project uses basic digital components like flip-flops and logic gates to en
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-- Sriinidhi M  
+- Sriinidhi M  , Anusree M
 - Electronics and Communication | MIT Chennai  
 
 ---
